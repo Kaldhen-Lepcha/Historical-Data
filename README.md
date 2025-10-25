@@ -4,7 +4,8 @@ A comprehensive repository containing historical financial data, analysis, and v
 
 ## 📋 Repository Contents
 
-### **Assignment-2: NIFTY 50 Historical Data**
+### **Assignment-2: Fetch Equity Historical data using batch download file**
+I have downloaded the past 5 years data for the new Nifty 50 stocks
 Complete historical daily OHLCV (Open, High, Low, Close, Volume) data for all 50 stocks in the NIFTY 50 index.
 
 **Data Period:** October 1, 2020 - September 30, 2025 (5 years)
